@@ -210,3 +210,6 @@ az functionapp log tail --name haxufunctions --resource-group myResourceGroup
 - [Azure Container Apps](https://docs.microsoft.com/azure/container-apps/)
 - [Azure Functions](https://docs.microsoft.com/azure/azure-functions/)
 - [Azure Cosmos DB](https://docs.microsoft.com/azure/cosmos-db/)
+
+
+<!-- Security scan triggered at 2026-09-03 23:14:20 -->
